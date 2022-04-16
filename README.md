@@ -1,16 +1,16 @@
 <br/>
-<p align="center">
-  <a href="https://github.com/xuz99/My Cheat Sheet">
+<p>
+  <a href="https://johndavidson.dev/myCheatSheet/">
     <img src="img/logo.png" alt="Logo" width="300" height="80">
   </a>
 
-  <h3 align="center">My Cheat Sheet</h3>
+  <h3>My Cheat Sheet</h3>
 
-  <p align="center">
+  <p>
     A place to put all my wee tricks and tips I pick up
     <br/>
     <br/>
-    <a href="https://github.com/xuz99/My Cheat Sheet">View Demo</a>
+    <a href="https://johndavidson.dev/myCheatSheet/">View Demo</a>
   </p>
 </p>
 
