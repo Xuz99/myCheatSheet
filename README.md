@@ -11,7 +11,6 @@
     <br/>
     <br/>
     <a href="https://github.com/xuz99/My Cheat Sheet">View Demo</a>
-    .
   </p>
 </p>
 
@@ -20,8 +19,6 @@
 ## About The Project
 
 ![Screen Shot](img/screenshot.png)
-
-A place to put all my wee tricks and tips I pick up
 
 ## Built With
 
